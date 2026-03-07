@@ -1,4 +1,4 @@
-# Little-Legacy
+# Little Legacy
 Minecraft LCE pvp texturepack
 
 The pack has no name in-game and has a funny image.
